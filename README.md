@@ -7,7 +7,7 @@
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=devabusayedkhan&color=red)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabusayedkhan&" alt="devabusayedkhan" /></p>
+
 
 </div>
 
@@ -61,11 +61,13 @@
 
 ## GitHub Stats
 
-<p align="center">
-<a href="https://github.com/devabusayedkhan">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devabusayedkhan&theme=radical" alt="GitHub Contribution"/>
-</a>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; background-color: black; padding: 20px; color: white;">
+  <a href="https://github.com/devabusayedkhan" style="text-decoration: none; color: gold; width: 50%">
+    <img style="width: 55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devabusayedkhan&theme=radical" alt="GitHub Contribution" />
+  </a>
+ <img style="width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=devabusayedkhan&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="devabusayedkhan" />
+</div>
+
 
 <p align="center">
 <a href="https://github.com/devabusayedkhan">
