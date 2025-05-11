@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning FullStack Web Development  
 - 👨‍💻 All of my projects are available at [https://github.com/devabusayedkhan](https://github.com/devabusayedkhan)  
 - 📚 I love to learn and create new things  
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, Tailwind CSS, JS, React**  
+- 💬 Ask me about **HTML5, CSS3, Bootstrap, Tailwind CSS, JS, React, PHP, Laravel**  
 - 📫 How to reach me: **devabusayedkhan@gmail.com**  
 - 📞 Phone: **01601064020**
 
